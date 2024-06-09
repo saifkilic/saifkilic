@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋🏻, I'm Saif!
+
+💻 Frontend and C++ Developer sharing my Projects <br/>
+👨‍🎓 Studying Computer Science at Bahria University, Islamabad, Pakistan <br/>
+🏴 Currently learning indemand framework React Js to boost up my Frontend journey <br/>
+👾 Interested in learning Unity to make my own Games<br/>
+
+
+
+
+[![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifkilic)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **saifkilic/saifkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
