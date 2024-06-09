@@ -8,7 +8,7 @@
 
 
 
-[![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifkilic)](https://github.com/anuraghazra/github-readme-stats)
+![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifkilic&show_icons=true&theme=dracula)
 
 
 <!--
