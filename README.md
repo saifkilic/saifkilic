@@ -1,5 +1,9 @@
 # 💫 Hi 👋🏻, I'm Saif!
- 💻 Frontend and C++ Developer sharing my Projects<br>👨‍🎓 Studying Computer Science at Bahria University, Islamabad, Pakistan<br>🏴 Currently learning indemand framework React Js to boost up my Frontend journey<br>👾 Interested in learning Unity to make my own Games
+ 💻 Frontend and C++ Developer sharing my Projects
+👨‍🎓 Studying Computer Science at Bahria University, Islamabad, Pakistan
+🏴 Currently learning React.js to enhance my Frontend development skills
+👾 Currently doing an internship as a React Developer at Ucapacity, a local startup
+🎮 Enrolled in the Google UX Design course to broaden my skillset
 
 
 ## 🌐 Socials:
